@@ -1,0 +1,592 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!-- saved from url=(0112)https://afilio-public-general.s3.amazonaws.com/2022/institucional/emkt/banco_bmg/11022022_vasco/index_vasco.html -->
+<html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+<title>Vasco | Banco BMG</title>
+<link href="./Vasco _ Banco BMG_files/css" rel="stylesheet">
+<link rel="preconnect" href="https://fonts.googleapis.com/">
+<link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin="">
+<link href="https://afilio-public-general.s3.amazonaws.com/2022/institucional/emkt/banco_bmg/11022022_vasco/%20//fonts.googleapis.com/css2?%20fam%C3%ADlia%20=%20Bai%20+%20Jamjuree:%20wght%20@%20400;%20700%20&amp;%20display%20=%20swap" rel=" stylesheet">
+	
+</head>
+
+<body bgcolor="#e5e5e5" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+<table width="600" border="0" cellspacing="0" cellpadding="0" align="center" bgcolor="#FFFFFF">
+  
+
+<!--TOPO-->
+  <tbody><tr>
+    <td> <img src="./Vasco _ Banco BMG_files/11022022_vasco_01.jpg" border="0" alt="Vasco bmg" width="600" height="134" style="display:block"></td>
+  </tr>
+<!--TOPO-->
+	
+<!-- BLOCO 01 -->
+	<tr>
+	<td>
+	<table width="0" border="0" cellspacing="0" cellpadding="0">
+		<tbody><tr>
+			<td width="49" height="146" style="background-image: url(https://afilio-public-general.s3.amazonaws.com/2022/institucional/emkt/banco_bmg/11022022_vasco/images/11022022_vasco_02.jpg); background-size: cover; background-position:center; color:#fff; font-family:&#39;Poppins&#39;,Arial,Helvetica,sans-serif; font-size:20px; line-height: 24px; font-weight: 400; font-style:normal; text-decoration:none; text-align:center"></td>
+			
+			<td width="551" height="146" valign="top" style="background-image: url(https://afilio-public-general.s3.amazonaws.com/2022/institucional/emkt/banco_bmg/11022022_vasco/images/11022022_vasco_03.jpg); background-size: cover; background-position:center; color:#fff; font-family:&#39;Montserrat&#39;,Arial,Helvetica,sans-serif; font-size:34px; line-height: 36px; font-weight: 400; font-style:normal; text-decoration:none; text-align:left">
+			<table width="551" height="146" border="0" cellspacing="0" cellpadding="0" align="left">
+				  <tbody>
+					<tr>
+					  <td> <font style="font-family: &#39;Montserrat Extrabold&#39;,Arial,Helvetica,sans-serif; color: #fff;">Abra sua conta</font>
+					  	<br> e marque
+						<br>um golaço para
+						<br>o Vascão!</td>
+					</tr>
+				  </tbody>
+			</table>
+    		</td>
+		</tr>
+		
+		</tbody></table>
+	</td>
+	</tr>
+<!-- FIM BLOCO 01 -->
+	
+
+<!-- BLOCO 02 -->
+  <tr>
+    <td> <img src="./Vasco _ Banco BMG_files/11022022_vasco_04.jpg" border="0" alt="Vasco bmg" width="600" height="100" style="display:block"></td>
+  </tr>
+<!-- FIM BLOCO 02 -->
+
+<!-- BLOCO 03 -->
+	<tr>
+	<td>
+	<table width="0" border="0" cellspacing="0" cellpadding="0">
+		<tbody><tr>
+			<td width="49" height="33" style="background-image: url(https://afilio-public-general.s3.amazonaws.com/2022/institucional/emkt/banco_bmg/11022022_vasco/images/11022022_vasco_05.jpg); background-size: cover; background-position:center; color:#fff; font-family:&#39;Poppins&#39;,Arial,Helvetica,sans-serif; font-size:20px; line-height: 24px; font-weight: 400; font-style:normal; text-decoration:none; text-align:center"></td>
+			
+			<td width="551" height="33" valign="top" style="background-image: url(https://afilio-public-general.s3.amazonaws.com/2022/institucional/emkt/banco_bmg/11022022_vasco/images/11022022_vasco_06.jpg); background-size: cover; background-position:center; color:#fff; font-family:&#39;Montserrat&#39;,Arial,Helvetica,sans-serif; font-size:34px; line-height: 30px; font-weight: 400; font-style:normal; text-decoration:none; text-align:left">
+			<table width="551" height="33" border="0" cellspacing="0" cellpadding="0" align="left">
+				  <tbody>
+					<tr>
+					  <td> <font style="font-family: &#39;Montserrat&#39;,Arial,Helvetica,sans-serif; color: #FA6300;"><strong>Fala, Vascaíno!</strong></font>
+					  	</td>
+					</tr>
+				  </tbody>
+			</table>
+    		</td>
+		</tr>
+		
+		</tbody></table>
+	</td>
+	</tr>
+<!-- FIM BLOCO 03 -->
+
+<!-- DIV -->		
+  <tr>
+    <td>
+		 <img src="./Vasco _ Banco BMG_files/11022022_vasco_07.jpg" border="0" alt="bg xpeed school" width="600" height="31" style="display:block">
+	  </td>
+  </tr>
+<!-- FIM DIV -->
+
+<!-- BLOCO 04 -->
+	<tr>
+	<td>
+	<table width="0" border="0" cellspacing="0" cellpadding="0">
+		<tbody><tr>
+			<td width="49" height="188" style="background-image: url(https://afilio-public-general.s3.amazonaws.com/2022/institucional/emkt/banco_bmg/11022022_vasco/images/11022022_vasco_08.jpg); background-size: cover; background-position:center; color:#fff; font-family:&#39;Poppins&#39;,Arial,Helvetica,sans-serif; font-size:20px; line-height: 24px; font-weight: 400; font-style:normal; text-decoration:none; text-align:right"></td>
+			
+			<td width="285" height="188" valign="top" style="background-image: url(https://afilio-public-general.s3.amazonaws.com/2022/institucional/emkt/banco_bmg/11022022_vasco/images/11022022_vasco_09.jpg); background-size: cover; background-position:center; color:#000; font-family:Arial,Helvetica,sans-serif; font-size:15px; line-height: 22px; font-weight: 400; font-style:normal; text-decoration:none; text-align:top">
+			<table width="285" height="188" border="0" cellspacing="0" cellpadding="0" align="left">
+				  <tbody>
+					<tr>
+					  <td valign="top">Já conhece a <strong>conta digital<br>
+					    exclusiva e 100% gratuita do Vascão?</strong><br><br>
+						  Então, não deixe para os 45 do segundo tempo, <strong>abra sua conta Vasco Bmg e descubra todos os benefícios exclusivos</strong> para você, além de ter seu cartão do Gigante da Colina.
+					  </td>
+					</tr>
+				  </tbody>
+			</table>
+    		</td>
+			
+			<td width="266" height="188" style="background-image: url(https://afilio-public-general.s3.amazonaws.com/2022/institucional/emkt/banco_bmg/11022022_vasco/images/11022022_vasco_10.jpg); background-size: 266px 192px; background-position:center; color:#fff; font-family:&#39;Poppins&#39;,Arial,Helvetica,sans-serif; font-size:20px; line-height: 24px; font-weight: 30; font-style:normal; text-decoration:none; text-align:right"></td>
+		</tr>
+		
+		</tbody></table>
+	</td>
+	</tr>
+<!-- FIM BLOCO 04 -->
+
+	<tr>
+	<td width="600" height="58" bgcolor="#fff"></td>
+	</tr>
+	
+<!-- INÍCIO CTA 01 -->
+ 	 <tr>
+    <td width="600" height="46" style="text-align:center">
+		<table width="230" height="46" border="0" cellspacing="0" cellpadding="0" align="center">
+		  <tbody>
+			<tr>
+			  <td width="288" height="56"><a href="https://app.afilio.com.br/click?pid=141&offer_id=52&l=1636744011 " target="_blank" style=" border: none; border-radius: 100px; color:white; background-color: black; display:inline-block; font-family:&#39;Montserrat&#39;,Arial,Helvetica,sans-serif; font-size:18px; line-height:48px; text-align:center; text-decoration:none; width:288px;"><strong>Quero abrir minha conta</strong></a></td>
+			</tr>
+		  </tbody>
+		</table>
+	</td>
+  </tr>
+	
+
+<!-- FIM CTA 01 -->
+	
+	<tr>
+	<td width="600" height="56" bgcolor="#fff"></td>
+	</tr>
+
+<!-- BLOCO 05 -->
+	<tr>
+	<td>
+	<table width="0" border="0" cellspacing="0" cellpadding="0">
+		<tbody><tr>
+			<td> <img src="./Vasco _ Banco BMG_files/11022022_vasco_12.jpg" border="0" alt="Vasco bmg" width="278" height="89" style="display:block"></td>
+			
+		  <td width="322" height="89" valign="top" style="background-color: white; background-size: cover; background-position:center; color:#000; font-family:Arial,Helvetica,sans-serif; font-size:24px; line-height: 29px; font-weight: 400; font-style:normal; text-decoration:none; text-align:top">
+			<table width="322" height="89" border="0" cellspacing="0" cellpadding="0" align="left">
+				  <tbody>
+					<tr>
+					  <td valign="top"><strong>Vantagens para você<br><font style="font-family: &#39;Montserrat&#39;,Arial,Helvetica,sans-serif; color: #FA6300; letter-spacing: 6.5px;"><strong>VASCAÍNO:</strong></font></strong>
+					  </td>
+					</tr>
+				  </tbody>
+			</table>
+   		  </td>
+			
+
+		</tr>
+		
+		</tbody></table>
+	</td>
+	</tr>
+<!-- FIM BLOCO 05 -->
+	
+<!-- BLOCO 06 -->
+  <tr>
+    <td> <img src="./Vasco _ Banco BMG_files/11022022_vasco_14.jpg" border="0" alt="Vasco bmg" width="600" height="35" style="display:block"></td>
+  </tr>
+<!-- FIM BLOCO 06 -->
+	
+	
+<!-- BLOCO 07 -->
+	<tr>
+	<td>
+	<table width="0" border="0" cellspacing="0" cellpadding="0">
+		<tbody><tr>
+			<td> <img src="./Vasco _ Banco BMG_files/11022022_vasco_15.jpg" border="0" alt="Vasco bmg" width="278" height="70" style="display:block"></td>
+			
+		  <td width="322" height="70" valign="top" style="background-color: white; background-size: cover; background-position:center; color:#000; font-family:Arial,Helvetica,sans-serif; font-size:16px; line-height: 23px; font-weight: 400; font-style:normal; text-decoration:none; text-align:top">
+			<table width="282" height="70" border="0" cellspacing="0" cellpadding="0" align="left">
+				  <tbody>
+					<tr>
+					  <td valign="top"><font style="font-family: &#39;Montserrat&#39;,Arial,Helvetica,sans-serif;"><strong>Cartão Personalizado<br> sem anuidade</strong></font><br>
+						<font style="color:#4D4D4F;">Cartão de crédito e débito Mastercard.</font>
+					  </td>
+					</tr>
+				  </tbody>
+			</table>
+    		</td>
+			
+
+		</tr>
+		
+		</tbody></table>
+	</td>
+	</tr>
+<!-- FIM BLOCO 07 -->
+	
+<!-- BLOCO 08 -->
+  <tr>
+    <td> <img src="./Vasco _ Banco BMG_files/11022022_vasco_17.jpg" border="0" alt="Vasco bmg" width="600" height="58" style="display:block"></td>
+  </tr>
+<!-- FIM BLOCO 08 -->
+	
+<!-- BLOCO 09 -->
+	<tr>
+	<td>
+	<table width="0" border="0" cellspacing="0" cellpadding="0">
+		<tbody><tr>
+			<td> <img src="./Vasco _ Banco BMG_files/11022022_vasco_18.jpg" border="0" alt="Vasco bmg" width="278" height="74" style="display:block"></td>
+			
+		  <td width="322" height="74" valign="top" style="background-color: white; background-size: cover; background-position:center; color:#000; font-family:Arial,Helvetica,sans-serif; font-size:16px; line-height: 23px; font-weight: 400; font-style:normal; text-decoration:none; text-align:top">
+			<table width="282" height="70" border="0" cellspacing="0" cellpadding="0" align="left">
+				  <tbody>
+					<tr>
+					  <td valign="top"><font style="font-family: &#39;Montserrat&#39;,Arial,Helvetica,sans-serif;"><strong>Cashback</strong></font><br>
+						<font style="color:#4D4D4F;">Dinheiro de volta em todas as compras com cartão, no crédito e no débito</font>
+					  </td>
+					</tr>
+				  </tbody>
+			</table>
+   		  </td>
+			
+
+		</tr>
+		
+		</tbody></table>
+	</td>
+	</tr>
+<!-- FIM BLOCO 09 -->
+	
+<!-- BLOCO 10 -->
+  <tr>
+    <td> <img src="./Vasco _ Banco BMG_files/11022022_vasco_20.jpg" border="0" alt="Vasco bmg" width="600" height="55" style="display:block"></td>
+  </tr>
+<!-- FIM BLOCO 10 -->
+	
+<!-- BLOCO 11 -->
+	<tr>
+	<td>
+	<table width="0" border="0" cellspacing="0" cellpadding="0">
+		<tbody><tr>
+			<td> <img src="./Vasco _ Banco BMG_files/11022022_vasco_21.jpg" border="0" alt="Vasco bmg" width="278" height="124" style="display:block"></td>
+			
+		  <td width="322" height="74" valign="top" style="background-color: white; background-size: cover; background-position:center; color:#000; font-family:Arial,Helvetica,sans-serif; font-size:16px; line-height: 23px; font-weight: 400; font-style:normal; text-decoration:none; text-align:top">
+			<table width="300" height="70" border="0" cellspacing="0" cellpadding="0" align="left">
+				  <tbody>
+					<tr>
+					  <td valign="top"><font style="font-family: &#39;Montserrat&#39;,Arial,Helvetica,sans-serif;"><strong>Loja Virtual Bmg</strong></font><br>
+						<font style="color:#4D4D4F;">Ofertas exclusivas e cashback diferenciado dos parceiros Bmg! Usando seu cartão Vasco Bmg, você ainda garante o cashback do cartão.</font>
+					  </td>
+					</tr>
+				  </tbody>
+			</table>
+   		  </td>
+			
+
+		</tr>
+		
+		</tbody></table>
+	</td>
+	</tr>
+<!-- FIM BLOCO 11 -->
+	
+<!-- BLOCO 12 -->
+  <tr>
+    <td> <img src="./Vasco _ Banco BMG_files/11022022_vasco_23.jpg" border="0" alt="Vasco bmg" width="600" height="53" style="display:block"></td>
+  </tr>
+<!-- FIM BLOCO 12 -->
+	
+<!-- BLOCO 13 -->
+	<tr>
+	<td>
+	<table width="0" border="0" cellspacing="0" cellpadding="0">
+		<tbody><tr>
+			<td> <img src="./Vasco _ Banco BMG_files/11022022_vasco_24.jpg" border="0" alt="Vasco bmg" width="278" height="74" style="display:block"></td>
+			
+		  <td width="322" height="74" valign="top" style="background-color: white; background-size: cover; background-position:center; color:#000; font-family:Arial,Helvetica,sans-serif; font-size:16px; line-height: 23px; font-weight: 400; font-style:normal; text-decoration:none; text-align:top">
+			<table width="273" height="70" border="0" cellspacing="0" cellpadding="0" align="left">
+				  <tbody>
+					<tr>
+					  <td valign="top"><font style="font-family: &#39;Montserrat&#39;,Arial,Helvetica,sans-serif;"><strong>Poupa pra Mim</strong></font><br>
+						<font style="color:#4D4D4F;">Cofrinho virtual que te ajuda a guardar dinheiro a cada transação.</font>
+					  </td>
+					</tr>
+				  </tbody>
+			</table>
+   		  </td>
+			
+
+		</tr>
+		
+		</tbody></table>
+	</td>
+	</tr>
+<!-- FIM BLOCO 13 -->
+	
+<!-- BLOCO 14 -->
+  <tr>
+    <td> <img src="./Vasco _ Banco BMG_files/11022022_vasco_26.jpg" border="0" alt="Vasco bmg" width="600" height="95" style="display:block"></td>
+  </tr>
+<!-- FIM BLOCO 14 -->
+	
+<!-- BLOCO 15 -->
+  <tr>
+    <td> <img src="./Vasco _ Banco BMG_files/11022022_vasco_27.jpg" border="0" alt="Vasco bmg" width="600" height="111" style="display:block"></td>
+  </tr>
+<!-- FIM BLOCO 15 -->
+	
+<!-- INÍCIO CTA 02 -->
+ 	 <tr>
+    <td width="600" height="46" style="text-align:center">
+		<table width="230" height="46" border="0" cellspacing="0" cellpadding="0" align="center">
+		  <tbody>
+			<tr>
+			  <td width="288" height="46"><a href="https://app.afilio.com.br/click?pid=141&offer_id=52&l=1636744011 " target="_blank" style=" border: none; border-radius: 100px; color:white; background-color: black; display:inline-block; font-family:&#39;Montserrat&#39;,Arial,Helvetica,sans-serif; font-size:18px; line-height:48px; text-align:center; text-decoration:none; width:288px;"><strong>Quero abrir minha conta</strong></a></td>
+			</tr>
+		  </tbody>
+		</table>
+	</td>
+  </tr>
+	
+
+<!-- FIM CTA 02 -->
+
+<!-- BLOCO 16 -->
+  <tr>
+
+	<td width="600" height="52" bgcolor="#fff"></td>
+  </tr>
+<!-- FIM BLOCO 16 -->
+	
+<!-- BLOCO 17 -->
+	<tr>
+	<td>
+	<table width="0" border="0" cellspacing="0" cellpadding="0">
+		<tbody><tr>
+			<td> <img src="./Vasco _ Banco BMG_files/11022022_vasco_30.jpg" border="0" alt="Vasco bmg" width="49" height="45" style="display:block"></td>
+			
+		  <td width="551" height="45" valign="top" style="background-color: white; background-size: cover; background-position:center; color:#000; font-family:Arial,Helvetica,sans-serif; font-size:16px; line-height: 24px; font-weight: 400; font-style:normal; text-decoration:none; text-align:top">
+			<table width="273" height="45" border="0" cellspacing="0" cellpadding="0" align="left">
+				  <tbody>
+					<tr>
+					  <td valign="top"><strong>Saudações do Gigante da Colina<br>
+						  						Vasco Bmg</strong>
+						
+					  </td>
+					</tr>
+				  </tbody>
+			</table>
+   		  </td>
+			
+
+		</tr>
+		
+		</tbody></table>
+	</td>
+	</tr>
+<!-- FIM BLOCO 17 -->
+
+<!-- BLOCO 18 -->
+  <tr>
+
+	<td width="600" height="32" bgcolor="#fff"></td>
+  </tr>
+<!-- FIM BLOCO 18 -->
+	
+<!-- BLOCO 19 -->
+  <tr>
+
+	<td width="600" height="38" bgcolor="#000"></td>
+  </tr>
+<!-- FIM BLOCO 19 -->
+	
+<!-- BLOCO 20 -->
+	<tr>
+	<td>
+	<table width="0" border="0" cellspacing="0" cellpadding="0">
+		<tbody><tr>
+			
+		<td width="49" height="112" bgcolor="#000"></td>
+			
+		  <td width="551" height="108" valign="top" style="background-color: #000; background-size: cover; background-position:center; color:#fff; font-family:Arial,Helvetica,sans-serif; font-size:16px; line-height: 24px; font-weight: 400; font-style:normal; text-decoration:none; text-align:top">
+			<table width="330" height="108" border="0" cellspacing="0" cellpadding="0" align="left">
+				  <tbody>
+					<tr valign="top">
+					  <td>Central de Relacionamento<br>
+						  <strong>0800 770 1790</strong> - Ligações de telefone fixo<br>
+						  <strong>4002 7007</strong> - Ligações de celular<br>
+						  <font style="font-size: 12px; line-height: 20px;">Atendimento 24h por dia, todos os dias da semana Consultas, informações e serviços transacionais</font>
+					  </td>
+					</tr>
+				  </tbody>
+			</table>
+   		  </td>
+			
+		</tr>
+		</tbody></table>
+	</td>
+	</tr>
+<!-- FIM BLOCO 20 -->
+
+<!-- BLOCO 21 -->
+ <tr>
+	<td width="600" height="30" bgcolor="#000"></td></tr>
+<!-- FIM BLOCO 21 -->
+	
+<!-- BLOCO 22 -->
+	<tr>
+	<td>
+	<table width="0" border="0" cellspacing="0" cellpadding="0">
+		<tbody><tr>
+		<td width="49" height="88" bgcolor="#000"></td>
+			
+		  <td width="551" height="85" valign="top" style="background-color: #000; background-size: cover; background-position:center; color:#fff; font-family:Arial,Helvetica,sans-serif; font-size:16px; line-height: 24px; font-weight: 400; font-style:normal; text-decoration:none; text-align:top">
+			<table width="330" height="85" border="0" cellspacing="0" cellpadding="0" align="left">
+				  <tbody>
+					<tr valign="top">
+					  <td>SAC<br>
+						  <strong>0800 979 9099</strong><br>
+						  <font style="font-size: 12px; line-height: 20px;">Atendimento 24h por dia, todos os dias da semana Reclamações, cancelamentos e informações gerais</font>
+					  </td>
+					</tr>
+				  </tbody>
+			</table>
+   		  </td>
+			
+		</tr>
+		</tbody></table>
+	</td>
+	</tr>
+<!-- FIM BLOCO 22 -->
+	
+<!-- BLOCO 23 -->
+ <tr>
+	<td width="600" height="30" bgcolor="#000"></td></tr>
+<!-- FIM BLOCO 23 -->
+	
+<!-- BLOCO 24 -->
+	<tr>
+	<td>
+	<table width="0" border="0" cellspacing="0" cellpadding="0">
+		<tbody><tr>
+		<td width="49" height="88" bgcolor="#000"></td>
+			
+		  <td width="551" height="85" valign="top" style="background-color: #000; background-size: cover; background-position:center; color:#fff; font-family:Arial,Helvetica,sans-serif; font-size:16px; line-height: 24px; font-weight: 400; font-style:normal; text-decoration:none; text-align:top">
+			<table width="380" height="85" border="0" cellspacing="0" cellpadding="0" align="left">
+				  <tbody>
+					<tr valign="top">
+					  <td>Atendimento Acessível (deficiência auditiva e de fala)<br>
+						  <strong>0800 979 7333</strong><br>
+						  <font style="font-size: 12px; line-height: 20px;">Atendimento 24h por dia, todos os dias da semana<br> Ligação de telefone especial TDD</font>
+					  </td>
+					</tr>
+				  </tbody>
+			</table>
+   		  </td>
+			
+		</tr>
+		</tbody></table>
+	</td>
+	</tr>
+<!-- FIM BLOCO 24 -->
+	
+<!-- BLOCO 25 -->
+ <tr>
+	<td width="600" height="30" bgcolor="#000"></td></tr>
+<!-- FIM BLOCO 25 -->
+	
+<!-- BLOCO 26 -->
+	<tr>
+	<td>
+	<table width="0" border="0" cellspacing="0" cellpadding="0">
+		<tbody><tr>
+		<td width="49" height="88" bgcolor="#000"></td>
+			
+		  <td width="551" height="85" valign="top" style="background-color: #000; background-size: cover; background-position:center; color:#fff; font-family:Arial,Helvetica,sans-serif; font-size:16px; line-height: 24px; font-weight: 400; font-style:normal; text-decoration:none; text-align:top">
+			<table width="450" height="85" border="0" cellspacing="0" cellpadding="0" align="left">
+				  <tbody>
+					<tr valign="top">
+					  <td>Ouvidoria<br>
+						  <strong>0800 723 2044</strong><br>
+						  <font style="font-size: 12px; line-height: 20px;">De 2ª a 6ª, das 9h às 18h<br>
+							  Se a solução oferecida pelos demais canais não foi satisfatória, procure a Ouvidoria</font>
+					  </td>
+					</tr>
+				  </tbody>
+			</table>
+   		  </td>
+			
+		</tr>
+		</tbody></table>
+	</td>
+	</tr>
+<!-- FIM BLOCO 26 -->
+	
+<!-- BLOCO 27 -->
+ <tr>
+	<td width="600" height="30" bgcolor="#000"></td></tr>
+<!-- FIM BLOCO 27 -->
+	
+<!-- BLOCO 28 -->
+	<tr>
+	<td>
+	<table width="0" border="0" cellspacing="0" cellpadding="0">
+		<tbody><tr>
+		<td width="49" height="21" bgcolor="#000"></td>
+			
+		  <td width="551" height="21" valign="top" style="background-color: #000; background-size: cover; background-position:center; color:#fff; font-family:Arial,Helvetica,sans-serif; font-size:16px; line-height: 24px; font-weight: 400; font-style:normal; text-decoration:none; text-align:top">
+			<table width="450" height="21" border="0" cellspacing="0" cellpadding="0" align="left">
+				  <tbody>
+					<tr valign="top">
+					  <td>
+						  <font style="font-size: 12px; line-height: 20px;">Siga o Vasco Bmg</font>
+					  </td>
+					</tr>
+				  </tbody>
+			</table>
+   		  </td>
+			
+		</tr>
+		</tbody></table>
+	</td>
+	</tr>
+<!-- FIM BLOCO 28 -->
+
+<!-- BLOCO 29 -->
+	<tr>
+	<td>
+	<table width="0" border="0" cellspacing="0" cellpadding="0">
+		<tbody><tr>
+		<td width="49" height="38" bgcolor="#000"></td>
+			
+		<td><a href="https://www.facebook.com/VascoBmgOficial/" target="_blank"><img src="./Vasco _ Banco BMG_files/11022022_vasco_48.jpg" border="0" alt="Facebook" width="36" height="38" style="display:block"></a></td>
+			
+		<td><img src="./Vasco _ Banco BMG_files/11022022_vasco_49.jpg" border="0" alt="" width="56" height="38" style="display:block"></td>
+
+		<td><a href="https://api.whatsapp.com/send?1=pt_BR&amp;phone=551140027007" target="_blank"><img src="./Vasco _ Banco BMG_files/11022022_vasco_50.jpg" border="0" alt="Whatsapp" width="39" height="38" style="display:block"></a></td>
+			
+		<td><img src="./Vasco _ Banco BMG_files/11022022_vasco_51.jpg" border="0" alt="" width="58" height="38" style="display:block"></td>
+			
+		<td><a href="https://www.instagram.com/vascobmg/" target="_blank"><img src="./Vasco _ Banco BMG_files/11022022_vasco_52.jpg" border="0" alt="Instagram" width="40" height="38" style="display:block"></a></td>
+			
+		<td><img src="./Vasco _ Banco BMG_files/11022022_vasco_53.jpg" border="0" alt="" width="56" height="38" style="display:block"></td>
+
+		<td><a href="https://twitter.com/VascoBmg" target="_blank"><img src="./Vasco _ Banco BMG_files/11022022_vasco_54.jpg" border="0" alt="Twitter" width="38" height="38" style="display:block"></a></td>
+			
+		<td><img src="./Vasco _ Banco BMG_files/11022022_vasco_55.jpg" border="0" alt="" width="228" height="38" style="display:block"></td>
+			
+		</tr>
+		</tbody></table>
+	</td>
+	</tr>
+<!-- FIM BLOCO 29 -->
+
+<!-- BLOCO 30 -->
+  <tr>
+    <td> <img src="./Vasco _ Banco BMG_files/11022022_vasco_56.jpg" border="0" alt="Vasco bmg" width="600" height="44" style="display:block"></td>
+  </tr>
+<!-- FIM BLOCO 30 -->
+	
+<!-- BLOCO 31 -->
+	<tr>
+	<td>
+	<table width="0" border="0" cellspacing="0" cellpadding="0">
+		<tbody><tr>
+		<td width="49" height="112" bgcolor="#000"></td>
+			
+		  <td width="551" height="112" valign="top" style="background-color: #000; background-size: cover; background-position:center; color:#fff; font-family:Arial,Helvetica,sans-serif; font-size:16px; line-height: 24px; font-weight: 400; font-style:normal; text-decoration:none; text-align:top">
+			<table width="450" height="112" border="0" cellspacing="0" cellpadding="0" align="left">
+				  <tbody>
+					<tr valign="top">
+					  <td><strong>Sede do Banco Bmg</strong><br>
+						  <font style="font-size: 12px; line-height: 20px;">Av. Presidente Juscelino Kubitschek, 1830 Torre 2, 10º andar - Vila Nova Conceição CEP 04543-900 - São Paulo/SP CNPJ: 61.186.680/0001-7<br>  ⓒ 2021 Todos os direitos reservados.</font>
+					  </td>
+					</tr>
+				  </tbody>
+			</table>
+   		  </td>
+			
+		</tr>
+		</tbody></table>
+	</td>
+	</tr>
+<!-- FIM BLOCO 31 -->
+	
+	
+</tbody></table>
+
+
+<div id="050e701dcfed91d9f424351f770c0cdf"></div></body></html>
